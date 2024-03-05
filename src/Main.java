@@ -21,6 +21,8 @@ public class Main {
         // class
         // methods
 
+      //  Human shubh = new Human();
+
 
     }
 }
